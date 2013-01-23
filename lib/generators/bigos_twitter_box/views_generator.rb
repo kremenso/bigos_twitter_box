@@ -1,4 +1,4 @@
-module BigosTwittermBox
+module BigosTwitterBox
   module Generators
 
     module ViewPathTemplates #:nodoc:

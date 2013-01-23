@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     bigos_twitter_box (0.0.1)
-      rails (~> 3.2.11)
+      rails (~> 3.2.9)
       twitter (= 4.2.0)
 
 GEM
